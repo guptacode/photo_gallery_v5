@@ -341,9 +341,12 @@ template {
 /*              Base styles                      */
 /* ============================================= */
 * {
-  font-family: "Lato", sans-serif;
   color: #000;
   box-sizing: border-box;
+}
+
+input {
+  font-family: "Lato", sans-serif;
 }
 
 p {

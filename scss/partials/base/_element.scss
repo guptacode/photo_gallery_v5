@@ -3,11 +3,14 @@
 /* ============================================= */
 
 * {
-    font-family: $f-family;
     color: $black;
     box-sizing: border-box;
   }
   
+  input {
+    font-family: $f-family;
+  }
+
   p {
     line-height: 1.45em;
   }
