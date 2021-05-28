@@ -364,7 +364,7 @@ a {
   margin-right: auto;
 }
 
-.grid-container {
+.gallery {
   display: grid;
   width: 85%;
   margin: 0 auto;
